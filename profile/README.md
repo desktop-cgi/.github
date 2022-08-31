@@ -19,7 +19,7 @@ Desktop-CGI runs an Electron - Node - Express - cgijs based application under th
 
 # DesktopCGI - Use Case for contribution and funding
 
-[DesktopCGI Presentation Link](https://www.slideshare.net/Ganesh745959/desktopcgi-252591522)
+[DesktopCGI Presentation Link](https://www.slideshare.net/Ganesh745959/desktopcgi-252630937)
 
 ##### Package Dependencies:
 
