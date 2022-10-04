@@ -19,7 +19,7 @@ Desktop-CGI is a desktop executable app that can be created from any CGI files o
 
 # DesktopCGI - Use Case for contribution and funding
 
-[DesktopCGI Presentation Link](https://www.slideshare.net/Ganesh745959/desktopcgi-252630937)
+Please check the [DesktopCGI Problem Statement's Presentation Link](https://www.slideshare.net/Ganesh745959/desktopcgi-252630937)
 
 ##### Package Dependencies:
 
