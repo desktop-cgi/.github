@@ -24,9 +24,9 @@ Desktop-CGI is a desktop executable app that can be created from any CGI files o
 ##### Package Dependencies:
 
 * Library dependencies:
-    - Nodejs: (> 8.x)
+    - `Nodejs`: (> 8.x)
 
 * Application Dependencies:
-    - cgi-js: (>=1.1.0)
-    - electron: (>=18.1.0)
+    - `cgi-js`: (>=1.1.0)
+    - `electron`: (>=18.1.0)
     - relevant compiling packages
