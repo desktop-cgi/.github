@@ -14,7 +14,7 @@ Desktop-CGI is a desktop executable app that can be created from any CGI files o
 
 Desktop-CGI can serve any CGI files, OR CGI / Scripted / Interpreted languages like PHP, Ruby, Python, Perl, JSP, ASPX, Other Interpreted Languages through embedded webservers, OR any remote proxy (any protocol / webserver) apps. Desktop-CGI runs an Electron - Node - Express - cgijs based application under the hood and supports major Operating systems like Windows, Linux, Mac or any operating systems supported by Electron.
 
-[Desktop-CGI](https://github.com/desktop-cgi/desktop-cgi) with support of [CGIJS](https://github.com/cgi-js/cgi-js) are intended and planned to be Application base, Framework, Protocol support, OS, and Build tool agnostic.
+[Desktop-CGI](https://github.com/desktop-cgi/desktop-cgi) with support of [CGIJS](https://github.com/cgi-js/cgi-js) are intended and planned to be Application base, Framework, Protocol, OS, and Build tool agnostic.
 
 
 # DesktopCGI - Use Case for contribution and funding
