@@ -1,4 +1,4 @@
-![Desktop CGI](https://github.com/desktop-cgi/desktop-cgi/blob/master/dev_support/assets/desktop-cgi.jpeg)
+![Desktop CGI](https://github.com/desktop-cgi/desktop-cgi/blob/main/dev_support/assets/desktop-cgi.jpeg)
 
 Status: MVP Development for Active Use: V2.0.0
 
