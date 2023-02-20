@@ -2,9 +2,7 @@
 
 Status: MVP Development for Active Use: V2.0.0
 
-`[Funding Invited]`
-
-`[Team and Community Managers Invited]`
+`[Funding Invited]` `[Team and Community Managers Invited]`
 
 Desktop-CGI is a desktop executable app that can be created from any CGI files or CGI web apps that can be served from an file, an embedded web server using proxy, or an remote proxy web server. It supports embedding and managing embeddable databases and executables. It supports all major Operating systems supported by electron like Windows, Linux, and MacOS supported by Electron.
 
