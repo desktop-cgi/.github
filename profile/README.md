@@ -20,10 +20,6 @@ Please check the [DesktopCGI Problem Statement's Presentation Link](https://www.
 
 ##### Package Dependencies:
 
-* Library dependencies:
-    - `Nodejs`: (> 8.x)
+* Library dependencies: `Nodejs`: (> 8.x), `GoLang`: (> 1.20.x)
 
-* Application Dependencies:
-    - `cgi-js`: (>=1.1.0)
-    - `electron`: (>=18.1.0)
-    - relevant compiling packages
+* Application Dependencies:, `cgi-js`: (>=1.1.0), `electron`: (>=18.1.0), relevant compiling packages
