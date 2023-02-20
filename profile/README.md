@@ -16,6 +16,7 @@ Desktop-CGI is a desktop executable app that can be created from any CGI files o
 
 [Desktop-CGI](https://github.com/desktop-cgi/desktop-cgi) with support of [CGIJS](https://github.com/cgi-js/cgi-js) is intended and planned to be `Native / Hybrid Application base`, `Application Framework`, `Programming Language`, `Protocol`, `OS`, and `Build tool` `agnostic`.
 
+* For [base-electron](https://github.com/desktop-cgi/base-electron), For [base-wails](https://github.com/desktop-cgi/base-wails), For [base-tauri](https://github.com/desktop-cgi/base-tauri)
 
 # DesktopCGI - Use Case for contribution and funding
 
